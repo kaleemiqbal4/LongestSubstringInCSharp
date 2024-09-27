@@ -1,0 +1,51 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[xX]64/
+[xX]86/
+[Aa][Rr][Mm]/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider files
+.idea/
+
+# NuGet packages
+**/packages/*
+!**/packages/build/
+!**/packages/build/PackageRestore.props
+!**/packages/build/PackageRestore.targets
+
+# Visual Studio Code files
+.vscode/
+
+# Rider files
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Others
+*.ncrunch*
+*.ncrunchproject
+*.sln.ide
